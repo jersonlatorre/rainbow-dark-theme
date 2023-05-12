@@ -2,6 +2,10 @@
   "name": "jersonlatorre",
   "displayName": "Rainbow Dark",
   "description": "Vibrant Dark Theme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jersonlatorre/rainbow-dark-theme"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.78.0"
