@@ -1,0 +1,21 @@
+{
+  "name": "jersonlatorre",
+  "displayName": "Rainbow Dark",
+  "description": "Vibrant Dark Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Rainbow Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Rainbow Dark-color-theme.json"
+      }
+    ]
+  }
+}
