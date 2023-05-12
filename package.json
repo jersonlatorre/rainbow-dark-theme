@@ -1,7 +1,7 @@
 {
   "name": "jersonlatorre",
-  "displayName": "Rainbow Dark",
-  "description": "Vibrant Dark Theme",
+  "displayName": "rainbow-dark",
+  "description": "Vibrant dark theme.",
   "repository": {
     "type": "git",
     "url": "https://github.com/jersonlatorre/rainbow-dark-theme"
@@ -18,7 +18,7 @@
       {
         "label": "Rainbow Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Rainbow Dark-color-theme.json"
+        "path": "./themes/rainbow-dark-color-theme.json"
       }
     ]
   }
