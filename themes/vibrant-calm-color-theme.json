@@ -1,5 +1,5 @@
 {
-  "name": "Rainbow Dark",
+  "name": "Vibrant Calm",
   "type": "dark",
   "semanticHighlighting": true,
   "semanticTokenColors": {
@@ -1816,6 +1816,13 @@
       }
     },
     {
+      "name": "js/ts italic",
+      "scope": "entity.other.attribute-name.js,entity.other.attribute-name.ts,entity.other.attribute-name.jsx,entity.other.attribute-name.tsx,variable.parameter,variable.language.super",
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
       "name": "comment",
       "scope": "comment.line.double-slash,comment.block.documentation",
       "settings": {
@@ -1911,20 +1918,21 @@
     "editorCursor.background": "#ffffff",
     "editor.selectionBackground": "#ffffff18",
     "editor.inactiveSelectionBackground": "#ffffff0e",
-    "editorWhitespace.foreground": "#e3e4e20e",
-    "editor.selectionHighlightBackground": "#b0b0b026",
-    "editor.selectionHighlightBorder": "#32323200",
+    "editorWhitespace.foreground": "#ffffff18",
+    "editor.selectionHighlightBackground": "#ffffff32",
+    "editor.selectionHighlightBorder": "#ffffff18",
     "editor.findMatchBackground": "#64646470",
     "editor.findMatchBorder": "#90909000",
     "editor.findMatchHighlightBackground": "#86868655",
     "editor.findMatchHighlightBorder": "#ffffff00",
-    "editor.findRangeHighlightBackground": "#ffffff0c",
+    "editor.findRangeHighlightBackground": "#ffffff18",
     "editor.findRangeHighlightBorder": "#ffffff00",
     "editor.rangeHighlightBackground": "#ffffff0b",
     "editor.rangeHighlightBorder": "#ffffff00",
     "editor.hoverHighlightBackground": "#264f7846",
-    "editor.wordHighlightStrongBackground": "#4b4b4bb8",
-    "editor.wordHighlightBackground": "#575757b8",
+    "editor.wordHighlightStrongBackground": "#ffffff18",
+    "editor.wordHighlightStrongBorder": "#ffffff32",
+    "editor.wordHighlightBackground": "#ffffff32",
     "editor.lineHighlightBackground": "#ffffff18",
     "editor.lineHighlightBorder": "#28282800",
     "editorLineNumber.activeForeground": "#ffffff",
