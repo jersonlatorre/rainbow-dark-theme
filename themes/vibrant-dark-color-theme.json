@@ -1,5 +1,5 @@
 {
-  "name": "Vibrant Calm",
+  "name": "Vibrant Dark",
   "type": "dark",
   "semanticHighlighting": true,
   "semanticTokenColors": {
@@ -1816,6 +1816,13 @@
       }
     },
     {
+      "name": "js/ts italic",
+      "scope": "entity.other.attribute-name.js,entity.other.attribute-name.ts,entity.other.attribute-name.jsx,entity.other.attribute-name.tsx,variable.parameter,variable.language.super",
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
       "name": "comment",
       "scope": "comment.line.double-slash,comment.block.documentation",
       "settings": {
@@ -1910,11 +1917,11 @@
     "editorCursor.foreground": "#777777",
     "editorCursor.background": "#ffffff",
     "editor.selectionBackground": "#ffffff18",
-    "editor.inactiveSelectionBackground": "#ffffff0e",
+    "editor.inactiveSelectionBackground": "#ffffff18",
     "editorWhitespace.foreground": "#ffffff18",
-    "editor.selectionHighlightBackground": "#ffffff32",
+    "editor.selectionHighlightBackground": "#ffffff18",
     "editor.selectionHighlightBorder": "#ffffff18",
-    "editor.findMatchBackground": "#64646470",
+    "editor.findMatchBackground": "#ffffff18",
     "editor.findMatchBorder": "#90909000",
     "editor.findMatchHighlightBackground": "#86868655",
     "editor.findMatchHighlightBorder": "#ffffff00",
@@ -1924,8 +1931,8 @@
     "editor.rangeHighlightBorder": "#ffffff00",
     "editor.hoverHighlightBackground": "#264f7846",
     "editor.wordHighlightStrongBackground": "#ffffff18",
-    "editor.wordHighlightStrongBorder": "#ffffff32",
-    "editor.wordHighlightBackground": "#ffffff32",
+    "editor.wordHighlightStrongBorder": "#ffffff18",
+    "editor.wordHighlightBackground": "#ffffff18",
     "editor.lineHighlightBackground": "#ffffff18",
     "editor.lineHighlightBorder": "#28282800",
     "editorLineNumber.activeForeground": "#ffffff",
@@ -2072,7 +2079,7 @@
     "minimapGutter.addedBackground": "#8ec03f",
     "minimapGutter.modifiedBackground": "#52b6ff",
     "minimapGutter.deletedBackground": "#e8774b",
-    "minimap.findMatchHighlight": "#64646470",
+    "minimap.findMatchHighlight": "#ffffff18",
     "minimap.selectionHighlight": "#ffffff18",
     "minimap.errorHighlight": "#c45e49",
     "minimap.warningHighlight": "#cca700",

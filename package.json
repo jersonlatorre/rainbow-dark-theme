@@ -1,10 +1,10 @@
 {
   "name": "jersonlatorre",
-  "displayName": "vibrant-calm-color-theme",
-  "description": "Vibrant Calm theme.",
+  "displayName": "vibrant-dark-color-theme",
+  "description": "vibrant dark theme.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jersonlatorre/vibrant-calm-color-theme"
+    "url": "https://github.com/jersonlatorre/vibrant-dark-color-theme"
   },
   "version": "0.0.1",
   "engines": {
@@ -16,9 +16,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Vibrant Calm Color Theme",
+        "label": "Vibrant Dark Color Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/vibrant-calm-color-theme.json"
+        "path": "./themes/vibrant-dark-color-theme.json"
       }
     ]
   }
