@@ -1,7 +1,8 @@
 {
-  "name": "jersonlatorre",
-  "displayName": "vibrant-dark-color-theme",
-  "description": "vibrant dark theme.",
+  "name": "vibrant-dark-color-theme",
+  "displayName": "Vibrant Dark Color Theme",
+  "description": "A vibrant dark theme with warm beige, gold, blue, and orange accents.",
+  "publisher": "jersonlatorre",
   "repository": {
     "type": "git",
     "url": "https://github.com/jersonlatorre/vibrant-dark-color-theme"
@@ -12,6 +13,12 @@
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "dark",
+    "vibrant",
+    "color theme",
+    "dark theme"
   ],
   "contributes": {
     "themes": [
