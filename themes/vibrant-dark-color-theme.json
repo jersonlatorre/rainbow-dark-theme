@@ -123,7 +123,7 @@
       "name": "Comment Markup Link",
       "scope": "comment markup.link",
       "settings": {
-        "foreground": "#545353"
+        "foreground": "#a39684"
       }
     },
     {
@@ -280,7 +280,21 @@
       "name": "support.constant.property-value.scss",
       "scope": "support.constant.property-value.scss,support.constant.property-value.css",
       "settings": {
+        "foreground": "#e8774b"
+      }
+    },
+    {
+      "name": "CSS/SCSS string values",
+      "scope": "string.quoted.double.css,string.quoted.single.css,string.quoted.double.scss,string.quoted.single.scss,string.quoted.double.less,string.quoted.single.less",
+      "settings": {
         "foreground": "#a39684"
+      }
+    },
+    {
+      "name": "CSS/SCSS property names",
+      "scope": "support.type.property-name.css,support.type.property-name.scss,support.type.property-name.less",
+      "settings": {
+        "foreground": "#52b6ff"
       }
     },
     {
@@ -729,7 +743,7 @@
       "name": "Strings",
       "scope": "string",
       "settings": {
-        "foreground": "#a39684"
+        "foreground": "#ffffff"
       }
     },
     {
@@ -761,6 +775,13 @@
       }
     },
     {
+      "name": "Language constants (true, false, null)",
+      "scope": "constant.language",
+      "settings": {
+        "foreground": "#ffd700"
+      }
+    },
+    {
       "name": "Constants",
       "scope": "punctuation.definition.constant",
       "settings": {
@@ -778,7 +799,7 @@
       "name": "Attributes",
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#a39684"
+        "foreground": "#ffffff"
       }
     },
     {
@@ -975,7 +996,7 @@
       "name": "Embedded",
       "scope": "punctuation.section.embedded.begin,punctuation.section.embedded.end",
       "settings": {
-        "foreground": "#ffd700"
+        "foreground": "#a39684"
       }
     },
     {
@@ -1017,14 +1038,14 @@
       "name": "Source Json Meta Structure Dictionary Json > String Quoted Json",
       "scope": "source.json meta.structure.dictionary.json > string.quoted.json",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#52b6ff"
       }
     },
     {
       "name": "Source Json Meta Structure Dictionary Json > String Quoted Json > Punctuation String",
       "scope": "source.json meta.structure.dictionary.json > string.quoted.json > punctuation.string",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#52b6ff"
       }
     },
     {
@@ -1045,14 +1066,14 @@
       "name": "[VSCODE-CUSTOM] JSON Property Name",
       "scope": "support.type.property-name.json",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#52b6ff"
       }
     },
     {
       "name": "[VSCODE-CUSTOM] JSON Punctuation for Property Name",
       "scope": "support.type.property-name.json punctuation",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#52b6ff"
       }
     },
     {
@@ -1699,7 +1720,7 @@
         "beginning.punctuation.definition.list.markdown.xi"
       ],
       "settings": {
-        "foreground": "#545353"
+        "foreground": "#a39684"
       }
     },
     {
@@ -1783,14 +1804,14 @@
       "scope": "comment, punctuation.definition.comment",
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#545353"
+        "foreground": "#a39684"
       }
     },
     {
       "name": "[VSCODE-CUSTOM] Markdown Quote",
       "scope": "markup.quote.markdown",
       "settings": {
-        "foreground": "#545353"
+        "foreground": "#a39684"
       }
     },
     {
