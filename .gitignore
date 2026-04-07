@@ -1,0 +1,19 @@
+# Mac OS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Empaquetados de extensión (.vsix) generados localmente
+*.vsix
+
+# Entorno de Node.js (por si usas npm para vsce localmente)
+node_modules/
+dist/
+out/
