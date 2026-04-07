@@ -1,7 +1,7 @@
 {
   "name": "vibrant-dark-color-theme",
-  "displayName": "Vibrant Dark Color Theme",
-  "description": "A vibrant dark theme with teal, cream, amber, orange, and red accents.",
+  "displayName": "Dusk Dark",
+  "description": "Dusk Dark — a dark theme with teal, cream, amber, orange, and red accents.",
   "publisher": "jersonlatorre",
   "repository": {
     "type": "git",
@@ -23,7 +23,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Vibrant Dark Color Theme",
+        "label": "Dusk Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/vibrant-dark-color-theme.json"
       }
