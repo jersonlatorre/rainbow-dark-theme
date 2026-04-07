@@ -1,11 +1,11 @@
 {
-  "name": "vibrant-dark-color-theme",
+  "name": "dusk-dark-theme",
   "displayName": "Dusk Dark",
   "description": "Dusk Dark — a dark theme with teal, cream, amber, orange, and red accents.",
   "publisher": "jersonlatorre",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jersonlatorre/vibrant-dark-color-theme"
+    "url": "https://github.com/jersonlatorre/rainbow-dark-theme"
   },
   "version": "0.0.1",
   "engines": {
@@ -16,7 +16,7 @@
   ],
   "keywords": [
     "dark",
-    "vibrant",
+    "dusk",
     "color theme",
     "dark theme"
   ],
@@ -25,7 +25,7 @@
       {
         "label": "Dusk Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/vibrant-dark-color-theme.json"
+        "path": "./themes/dusk-dark-theme.json"
       }
     ]
   }
